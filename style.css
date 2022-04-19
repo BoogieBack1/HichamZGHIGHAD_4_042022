@@ -8,8 +8,8 @@ body {
 }
 
 p {
-    font-weight: 900;
     font-size: 16px;
+    color: #000000;
 
 }
 
@@ -807,8 +807,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #364577!important;
-    border-color: #364577!important;
+    color: #000000!important;
+    border-color: #000000!important;
 }
 
 .bg-dots-bg {
